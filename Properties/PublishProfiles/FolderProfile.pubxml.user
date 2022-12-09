@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Sites\INTSPT</_PublishTargetUrl>
+    <History>True|2022-10-20T01:23:53.1823285Z;True|2022-10-20T08:52:22.3664524+08:00;False|2022-10-20T08:51:59.7691649+08:00;True|2022-10-19T16:55:47.1357587+08:00;False|2022-10-19T16:53:32.0545865+08:00;False|2022-10-19T16:53:05.1485076+08:00;True|2022-10-19T16:13:35.5731802+08:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-InterdealsSupport-53bc9b9d-9d6a-45d4-8429-2a2761773502%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
