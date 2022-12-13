@@ -8,6 +8,6 @@ tutorial link : https://tutorial.cytron.io/2021/09/01/how-to-create-a-telegram-b
 - build project
 - run
 
-Username : Sysadmin Password : Abc@12345
+Username : Sysadmin Password : Test@12345
 
 Web App link : http://ronald.somee.com/
